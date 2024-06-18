@@ -1,0 +1,213 @@
+{
+  "notices": [
+    {
+      "id": "10",
+      "status": "current",
+      "fileName": "current-1.pdf",
+      "date": "24, Dec 2023",
+      "title": "The Annual meeting on parking problems",
+      "description": "The serene landscape stretched endlessly, a canvas of vivid greens and tranquil blues. "
+    },
+    {
+      "id": "2",
+      "status": "current",
+      "fileName": "current-2.pdf",
+      "date": "10, Feb 2024",
+      "title": "Tech Innovations Summit 2024",
+      "description": "As the dawn broke, casting a golden hue over the horizon."
+    },
+    {
+      "id": "3",
+      "status": "archived",
+      "fileName": "archived-1.pdf",
+      "date": "15, Mar 2023",
+      "title": "Environmental Conservation Conference",
+      "description": "The air was thick with the scent of pine and earth, a reminder of nature's raw beauty. Delegates gathered, each driven by a shared commitment to the planet. Discussions flowed like rivers, carving paths through entrenched beliefs. Ideas blossomed, as vibrant as the forests they aimed to protect. The conference hall resonated with a sense of urgency, each voice a pledge to nurture and preserve. "
+    },
+    {
+      "id": "4",
+      "status": "current",
+      "fileName": "current-4.pdf",
+      "date": "15, Oct 2021",
+      "title": "Global Health Symposium",
+      "description": "Under the dome of a grand convention center, health professionals from around the globe assembled. The hum of conversation was a testament to the shared passion for well-being. Presentations illuminated the latest breakthroughs, each slide a step closer to eradicating ailments. Laughter and serious discourse mingled, a dance of intellect and empathy. As the days unfolded, the symposium became a crucible of knowledge and compassion, a place where hope was kindled and the future of global health was charted with precision and care."
+    },
+    {
+      "id": "5",
+      "status": "current",
+      "fileName": "art-exhibition.pdf",
+      "date": "25, May 2026",
+      "title": "Contemporary Art Exhibition",
+      "description": "The gallery thrummed with anticipation, walls adorned with strokes of genius. Artists and enthusiasts meandered, each piece a portal to the creator's soul. Colors danced, shadows whispered, and the air was thick with inspiration. Conversations flickered like candlelight, illuminating the minds of those who ventured close. Amidst the masterpieces, time seemed to pause, allowing creativity to seep into every crevice. "
+    },
+    {
+      "id": "6",
+      "status": "archived",
+      "fileName": "archived-2.pdf",
+      "date": "12, Jun 2023",
+      "title": "International Educators' Forum",
+      "description": "In a hall brimming with wisdom, educators from diverse backgrounds convened. The exchange of ideas was as fluid as a river, nourishing the minds eager to learn. Workshops buzzed with activity, each moment a revelation. The spirit of mentorship permeated the air, binding attendees in a shared mission to enlighten. Stories of challenges and triumphs wove a rich tapestry of experience. As the forum drew to a close, a renewed sense of purpose and camaraderie blossomed, a collective vow to shape the future through the power of education."
+    },
+    {
+      "id": "7",
+      "status": "archived",
+      "fileName": "startup-meet.pdf",
+      "date": "30, Jul 2024",
+      "title": "Startup Networking Meet",
+      "description": "The hall buzzed with the energy of budding entrepreneurs, each one a beacon of ambition."
+    }
+  ],
+
+  "events": [
+    {
+      "id": "1",
+      "type": "photo",
+      "date": "5, Jun 2024",
+      "title": "Annual Meeting",
+      "description": "Events are organized occasions that bring people together for a specific purpose, such as celebrations, educational sessions, conferences, or social gatherings. These can range from small, informal meet-ups to large, formal conventions. Each event typically has a theme, agenda, and set activities designed to achieve certain objectives. Planning an event involves logistical arrangements, including venue selection, scheduling, catering, and participant coordination. Successful events foster networking, knowledge sharing, and community building, offering valuable experiences for attendees. In today's digital age, virtual events have also become prevalent, broadening participation and accessibility.",
+      "urlList": ["photoURL-1", "photoURL-2"]
+    },
+    {
+      "id": "2",
+      "type": "video",
+      "date": "15, Jul 2024",
+      "title": "Tech Conference 2024",
+      "description": "A convergence of tech enthusiasts and professionals, the Tech Conference 2024 offers a platform for showcasing cutting-edge innovations. Participants engage in sessions, workshops, and panel discussions, exploring the latest trends and breakthroughs. The event fosters collaboration, with opportunities for networking and mentorship. Attendees leave inspired, equipped with new knowledge and connections to drive future technological advancements. The digital component ensures global reach, enabling remote participation and interactive experiences.",
+      "urlList": ["videoURL-1", "videoURL-2"]
+    },
+    {
+      "id": "3",
+      "type": "photo",
+      "date": "25, Aug 2024",
+      "title": "Cultural Festival",
+      "description": "The Cultural Festival is a celebration of diversity, bringing together communities to share and experience different traditions, cuisines, and arts. Vibrant performances, colorful stalls, and interactive workshops create an immersive environment. The festival highlights the beauty of multiculturalism, fostering understanding and unity among participants. It serves as a reminder of the richness that diversity brings to society, with each attendee contributing to the festival's mosaic of cultures.",
+      "urlList": ["photoURL-3", "photoURL-4"]
+    },
+    {
+      "id": "4",
+      "type": "photo",
+      "date": "10, Sep 2024",
+      "title": "Health and Wellness Webinar",
+      "description": "Focused on promoting holistic well-being, the Health and Wellness Webinar brings together experts from various fields to share insights and practical advice. Topics range from mental health and nutrition to physical fitness and mindfulness practices. The webinar format allows for interactive Q&A sessions, ensuring that attendees can address their specific concerns. The event empowers participants with knowledge and tools to enhance their overall health, emphasizing the importance of a balanced lifestyle.",
+      "urlList": ["webinarURL-1", "webinarURL-2"]
+    },
+    {
+      "id": "5",
+      "type": "photo",
+      "date": "30, Oct 2024",
+      "title": "Business Networking Event",
+      "description": "Designed to facilitate professional connections, the Business Networking Event provides a space for entrepreneurs, investors, and industry leaders to interact. Structured networking sessions and informal meet-and-greets enable participants to expand their professional circles. Keynote speeches and panel discussions offer insights into current market trends and business strategies. The event's goal is to foster collaboration, innovation, and growth within the business community.",
+      "urlList": ["photoURL-5", "photoURL-6"]
+    },
+    {
+      "id": "6",
+      "type": "video",
+      "date": "15, Nov 2024",
+      "title": "Creative Writing Workshop",
+      "description": "The Creative Writing Workshop is a haven for aspiring writers looking to hone their craft. Led by established authors and literary experts, the workshop covers various aspects of writing, from storytelling techniques to character development and editing. Participants engage in writing exercises, peer reviews, and constructive feedback sessions. The supportive environment encourages creativity and provides valuable insights, helping writers refine their skills and find their unique voice.",
+      "urlList": ["workshopURL-1", "workshopURL-2"]
+    },
+    {
+      "id": "7",
+      "type": "video",
+      "date": "20, Dec 2024",
+      "title": "Art Exhibition",
+      "description": "Showcasing contemporary art from emerging and established artists, the Art Exhibition is a visual feast. Attendees explore diverse artistic expressions, from paintings and sculptures to digital art and installations. The exhibition provides a platform for artists to share their work and for art enthusiasts to engage with and appreciate new perspectives. Guided tours and artist talks enhance the experience, offering deeper insights into the creative processes and themes behind the artworks.",
+      "urlList": ["exhibitionURL-1", "exhibitionURL-2"]
+    }
+  ],
+
+  "members": [
+    {
+      "id": "1",
+      "name": "Abhijit Vijaykumar Mophare",
+      "email": "avmophare.personal@gmail.com",
+      "phone": "0217-2523889, 9673917466",
+      "photo": "https://avatars.githubusercontent.com/u/77708148?v=4?s=400"
+    },
+    {
+      "id": "2",
+      "name": "Rohit Kumar Sharma",
+      "email": "rksharma.example@gmail.com",
+      "phone": "011-22334455, 9876543210",
+      "photo": "https://images.pexels.com/photos/2586823/pexels-photo-2586823.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "Neha Suresh Patil",
+      "email": "nspatil.contacts@gmail.com",
+      "phone": "022-55667788, 9123456789",
+      "photo": "https://images.pexels.com/photos/1727273/pexels-photo-1727273.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Amitabh Rajesh Gupta",
+      "email": "argupta.professional@gmail.com",
+      "phone": "033-66778899, 9988776655",
+      "photo": "https://images.pexels.com/photos/3797438/pexels-photo-3797438.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "Priya Anil Joshi",
+      "email": "pajoshi.connect@gmail.com",
+      "phone": "044-77889900, 9090909090",
+      "photo": "https://images.pexels.com/photos/2906635/pexels-photo-2906635.jpeg"
+    },
+    {
+      "id": "6",
+      "name": "Vikram Sunil Deshmukh",
+      "email": "vsdeshmukh.work@gmail.com",
+      "phone": "040-88990011, 9870987654",
+      "photo": "https://images.pexels.com/photos/14697557/pexels-photo-14697557.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "Sonal Mehta",
+      "email": "sonal.mehta@example.com",
+      "phone": "080-99001122, 9709709700",
+      "photo": "https://images.pexels.com/photos/2076752/pexels-photo-2076752.jpeg"
+    }
+  ],
+  "bearers": [
+    {
+      "id": "1",
+      "name": "Adv. Amit V. Alange",
+      "post": "President",
+      "education": "BA LLB",
+      "exp": "20",
+      "image": "src/app/main/members/m1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Adv. Vijay P. Shinde",
+      "post": "Vice President",
+      "education": "BA LLB",
+      "exp": "20",
+      "image": "./members/m2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Adv. Manoj N. Pamul",
+      "post": "Secretary",
+      "education": "BA LLB",
+      "exp": "20",
+      "image": "./members/m3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Adv. Needa A. Saifan",
+      "post": "Joint-Secretary",
+      "education": "BA LLB",
+      "exp": "10",
+      "image": "./members/m4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Adv. Vinaykumar S. Katare",
+      "post": "Treasurer",
+      "education": "BCA LLB",
+      "exp": "10",
+      "image": "./members/m1.jpg"
+    }
+  ]
+}
